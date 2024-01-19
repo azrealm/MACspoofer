@@ -13,16 +13,15 @@ Feel free to modify and distribute the CODES. You can change everything.
 
 # Installation
 
-Download the file
+**1 .- Download the file**
 
-Navigate into the directory
-
+**2.- Navigate into the directory**
 ```
 cd MACspoofer/
 ``` 
-No required requirements
+**No required requirements**
 
-Open it
+**3.- Open it**
 
 ```
 sudo python MACspoofer.py
@@ -37,4 +36,4 @@ sudo python MACspoofer.py
 
  **DISCORD** : https://discord.gg/rMyFm6QV9S
  
- TELEGRAM : https://t.me/NockServices
+ **TELEGRAM** : https://t.me/NockServices
