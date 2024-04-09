@@ -34,6 +34,6 @@ sudo python MACspoofer.py
 
 # FOR MORE INFORMATION, PLEASE CONTACT US.
 
- **DISCORD** : https://discord.gg/JfByMqGveh
+ **DISCORD** : real.tabss
  
- **TELEGRAM** : https://t.me/exocommunity
+ **TELEGRAM** : https://t.me/Txbss
