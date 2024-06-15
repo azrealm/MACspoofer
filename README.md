@@ -34,6 +34,6 @@ sudo python MACspoofer.py
 
 # FOR MORE INFORMATION, PLEASE CONTACT US.
 
- **DISCORD** : real.tabss
+ **DISCORD** : saint.udp
  
  **TELEGRAM** : https://t.me/Txbss
