@@ -34,6 +34,6 @@ sudo python MACspoofer.py
 
 # FOR MORE INFORMATION, PLEASE CONTACT US.
 
- **DISCORD** : saint.udp
+ **DISCORD** : https://discord.com/users/1160553696048975905
  
- **TELEGRAM** : https://t.me/Txbss
+ **TELEGRAM** : https://t.me/anfetaamina
