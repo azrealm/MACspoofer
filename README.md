@@ -29,11 +29,11 @@ sudo python MACspoofer.py
 
 👏 👏 👏 
 
-> Tabss updates uploaded to Github.
+> AZ updates uploaded to Github.
 
 
 # FOR MORE INFORMATION, PLEASE CONTACT US.
 
  **DISCORD** : https://discord.com/users/1160553696048975905
  
- **TELEGRAM** : https://t.me/anfetaamina
+ **TELEGRAM** : https://t.me/kerhell
